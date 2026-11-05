@@ -2,5 +2,5 @@ console.log('hello world!');
 
 
 function Func() {
-    return 10;
+    return 20;
 }
